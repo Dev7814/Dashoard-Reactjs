@@ -1,0 +1,47 @@
+.small-graph-container {
+  width: 8vw;
+  height: 10vh;
+}
+
+.large-line-graph{
+  width: 60vw;
+  height: 50vh;
+}
+
+.large-bar-graph{
+  width: 30vw;
+  height: 50vh;
+}
+
+.pie-chart{
+  width: 33vw;
+  height: 25vh;
+}
+
+.area-chart{
+  width: 30vw;
+  height: 15vh;
+}
+
+@media only screen and (max-width: 600px) {
+  .area-chart{
+    width: 90vw;
+    height: 15vh;
+  }
+  .pie-chart{
+    width: 90vw;
+    height: 25vh;
+  }
+  .large-bar-graph{
+    width: 90vw;
+    height: 50vh;
+  }
+  .large-line-graph{
+    width: 90vw;
+    height: 50vh;
+  }
+  .small-graph-container {
+    width: 50vw;
+    height: 10vh;
+  }
+}
