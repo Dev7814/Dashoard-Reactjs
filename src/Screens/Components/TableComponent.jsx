@@ -33,6 +33,54 @@ const TableComponent = () => {
                         <td>$150.50</td>
                         <td>24,512</td>
                     </tr>
+                    <tr>
+                        <td>
+                            <div className='space-item w3-padding-small'>
+                                <img src='./Image.jpg' loading='lazy' alt='react' height={60} width={60} className='w3-round' />
+                                <div className='w3-col w3-left-align'>
+                                    <h5 style={{ margin: 0 }}>Machine Learning Bootcamp</h5>
+                                    <p style={{ margin: 0 }}>By James Bard</p>
+                                </div>
+                            </div>
+                        </td>
+                        <td>Design</td>
+                        <td>150</td>
+                        <td><div className='center-item'><FaStar color='darkorange' />4.5</div></td>
+                        <td>$150.50</td>
+                        <td>24,512</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div className='space-item w3-padding-small'>
+                                <img src='./Image.jpg' loading='lazy' alt='react' height={60} width={60} className='w3-round' />
+                                <div className='w3-col w3-left-align'>
+                                    <h5 style={{ margin: 0 }}>Machine Learning Bootcamp</h5>
+                                    <p style={{ margin: 0 }}>By James Bard</p>
+                                </div>
+                            </div>
+                        </td>
+                        <td>Design</td>
+                        <td>150</td>
+                        <td><div className='center-item'><FaStar color='darkorange' />4.5</div></td>
+                        <td>$150.50</td>
+                        <td>24,512</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div className='space-item w3-padding-small'>
+                                <img src='./Image.jpg' loading='lazy' alt='react' height={60} width={60} className='w3-round' />
+                                <div className='w3-col w3-left-align'>
+                                    <h5 style={{ margin: 0 }}>Machine Learning Bootcamp</h5>
+                                    <p style={{ margin: 0 }}>By James Bard</p>
+                                </div>
+                            </div>
+                        </td>
+                        <td>Design</td>
+                        <td>150</td>
+                        <td><div className='center-item'><FaStar color='darkorange' />4.5</div></td>
+                        <td>$150.50</td>
+                        <td>24,512</td>
+                    </tr>
                 </table>
             </div>
         </div>
